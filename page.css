@@ -1,0 +1,280 @@
+.disp{
+    display: inline-block;
+    font-size:30px;
+    color: #010a43;
+}
+.f2
+{
+    display: inline;
+    color:#ffa41b;
+    text-decoration:bold;
+}
+.intro
+{
+    display: inline;
+    color: gray;
+    font-family: arial;
+    margin-left: 400px;
+}
+.button
+{
+background-color:yellow;
+border-radius: 19px;
+color:black;
+display:inline;
+font-size:20px;
+text-align: center;
+cursor: pointer;
+transition-duration: 0.4s;
+padding: 8px 8px;
+}
+.pic1
+{
+    margin-right: 90px;
+}
+.text1
+{
+    margin-left: 150px;
+}
+
+.h1
+{
+    line-height: 1px;
+
+}
+.h4
+{
+    display: inline;
+    color: gray;
+}
+.pic2
+{
+    align-items: center;
+    margin-left: 520px;
+    height: 20px;
+    width: 80px;
+}
+.button2
+{
+margin-left: 150px;
+background-color:yellow;
+border-radius: 19px;
+color:black;
+display:inline;
+font-size:15px;
+text-align: center;
+cursor: pointer;
+transition-duration: 0.4s;
+padding: 8px 8px;
+}
+.h11
+{
+    align-items: center;
+    margin-left: 420px;
+}
+.h5
+{
+    color: gray;
+    margin-left: 350px;
+    font-family: Arial;
+    line-height: 0px;
+}
+.h6
+{
+    color: gray;
+    margin-left:390px ;
+    font-family: arial;
+}
+.done
+{
+    margin-left: 140px;
+}
+.column 
+{
+    float: left;
+    width: 22%;
+    padding: 0 10px;
+  }
+  
+  /* Remove extra left and right margins, due to padding in columns */
+  .row
+   {
+      margin: 0 -5px;
+    }
+  
+  /* Clear floats after the columns */
+ /* .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }*/
+.card {
+    
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    height: 320px;
+    width: 150px;
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* Add some padding inside the card container */
+  .container 
+  {
+    padding: 2px 16px;
+  }
+  
+.s{
+      color:gray;
+
+  }
+  .pic7
+  {
+      margin-left:200px ;
+      margin-top: 100px;
+      width:250px;
+      height: 250px;
+      
+  }
+  .new
+  {
+      margin-left: 700px;
+      font-family: arial;
+      color: white;
+     
+  }
+  .hm
+  {
+    margin-top: 100px;
+    font-family: arial;
+    margin-left:700px
+    
+
+  }
+  .h
+  {
+      color:gray;
+      margin-left:700px
+      
+      
+  }
+  .button3
+  {
+    margin-left: 300px;
+    background-color:yellow;
+    border-radius: 19px;
+    color:black;
+    display:inline;
+    font-size:15px;
+    text-align: center;
+    cursor: pointer;
+    transition-duration: 0.4s;
+    padding: 8px 8px;
+  }
+  .hn
+  {
+      margin-left: 200px;
+      font-family: arial;
+      color: gray;
+  }
+  .pic8
+  {
+      
+      margin-right: 200px;
+
+  }
+  .o{
+      display: inline;
+  }
+  .pic9
+  {
+      align:left;
+      margin-left: 200px;
+  }
+  .t1{
+      
+      font-family: arial;
+      color: gray;
+    
+  }
+  .card1 {
+    
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    height: 350px;
+    width: 250px;
+  }
+  .card1:hover {
+
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  .container1 
+  {
+    padding: 2px 16px;
+  }
+  .column1 
+  {
+      float: left;
+      width: 22%;
+      padding: 0 10px;
+    }
+    
+    /* Remove extra left and right margins, due to padding in columns */
+    .row1
+             {
+        margin: 0 -5px;
+      }
+      .done1
+      {
+          margin-left: 240px;
+      }
+      .button4
+      {
+        
+        background-color:yellow;
+        border-radius: 19px;
+        color:black;
+        display: inline;
+        font-size:15px;
+        text-align: center;
+        cursor: pointer;
+        transition-duration: 0.4s;
+        padding: 10px 10px;
+      }
+      .marg
+      {
+          margin-top: 400px;
+      }
+      input[type=text]
+{
+width: 35%;
+border-radius: 15px;
+padding: 12px 20px;
+font-size: 19px;
+display: inline;
+margin: 10px;
+}
+input[type=email]
+{
+width: 80%;
+border-radius: 15px;
+padding: 12px 20px;
+font-size: 19px;
+display: inline;
+margin: 10px;
+box-sizing: border-box;
+}
+textarea{
+width: 80%;
+height: 150px;
+border-radius: 10px;
+padding:12px 20px;
+font-size: 19px;
+display: inline;
+margin: 10px;
+box-sizing: border-box;
+resize: none;
+}
